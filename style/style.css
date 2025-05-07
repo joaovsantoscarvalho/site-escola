@@ -57,3 +57,12 @@
   text-align: center;
   padding: 24px 0;
 }
+
+.estudante-imagem{
+  width: 24px;
+}
+
+.estudantes-incone{
+  width: 24px;
+  padding: 4px 8px;
+}
