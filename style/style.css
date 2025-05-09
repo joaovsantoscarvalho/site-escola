@@ -90,3 +90,18 @@ body{
   height: 60px;
   padding: 12px 0;
 }
+
+
+@media (max-width: 768px) {
+  .cabecalho{
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .cabecalho-lista-intem{
+    display: block;
+    margin: 8px 0;
+  }
+
+  
+}
