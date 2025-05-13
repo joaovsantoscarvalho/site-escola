@@ -35,9 +35,9 @@ body{
 }
 
 .cabecalho-imagem{
-  width: 110px;
-  height: 90px;
-  border-radius: 50%;
+  width: 120px;
+  height: 80px;
+  border-radius: 30%;
 }
 
 .escola-imagem{
@@ -81,7 +81,7 @@ body{
 }
 
 .estudante-imagem{
-  width: 24px;
+  width: 100px;
 }
 
 .estudantes-incone{
